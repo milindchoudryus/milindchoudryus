@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @milindchoudryus
 - 👀 I’m interested in GenAI, AI-powered Robots, and Computer Vision
 - 🌱 I’m currently pursuing a Master's in Data Science @Pace University, NY
-- 💞️ I’m looking to collaborate on GenAI agent development, Robot-AI integration, and AI-powered simulations.
+- 💞️ I’m looking to collaborate on GenAI agent development, Robot-AI integration, Physical AI, and AI-powered simulations.
 - 📫 Reach me at: milindchoudry.us@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: Trained Vocalist, Sketch Artist, Painter
