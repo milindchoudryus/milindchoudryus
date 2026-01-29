@@ -8,7 +8,7 @@ I am a Data Scientist specializing in Generative AI and Computer Vision. I recen
   - Robot-AI integration & Simulations
   - Computer Vision projects (YOLO/Stereo Vision)
 - 💬 **Ask me about:** Python, RAG pipelines, and Industrial Safety Automation
-- 📫 **How to reach me:** milindchoudry.us@gmail.com
+- 📫 **How to reach me:** milindkumar.ed@gmail.com
 - ⚡ **Fun fact:** Trained Vocalist, Sketch Artist, Painter
 
 <!---
