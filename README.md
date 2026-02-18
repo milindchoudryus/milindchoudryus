@@ -1,5 +1,4 @@
-
-![096A01B6-23ED-49D8-B34F-BE1A4AAD3EC6_1_102_a](https://github.com/user-attachments/assets/bfb934e0-1e42-4d2a-82ed-34a2afe3b696)
+https://github.com/user-attachments/assets/3b366bec-2a90-4cca-a6be-414c3ecded1d
 
 ## Hi there, I'm Milind! 👋
 
