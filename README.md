@@ -1,4 +1,5 @@
-https://github.com/user-attachments/assets/3b366bec-2a90-4cca-a6be-414c3ecded1d
+
+![Adobe Express - Stable_Video_Generation_With_Music_Reactive_Lamp (1)](https://github.com/user-attachments/assets/d25a44cc-01f7-4064-abfc-7fbf3b45b0b2)
 
 ## Hi there, I'm Milind! 👋
 
