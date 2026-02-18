@@ -1,4 +1,5 @@
-#![5C4A814C-A220-4DC3-99B1-63DD15E87F12_1_206_a](https://github.com/user-attachments/assets/4d8c8d52-064d-4b1b-8447-f3b38984e0ca)
+https://github.com/user-attachments/assets/6c7e99a4-72d3-467b-b310-20002e367e39
+
 ## Hi there, I'm Milind! 👋
 
 I am a Data Scientist specializing in Generative AI and Computer Vision. I recently graduated with my Master's in Data Science from Pace University.
